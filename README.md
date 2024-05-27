@@ -37,7 +37,7 @@ pip install -r requirements.txt
 2. Run the conversion script:
 
     ```sh
-    python script.py
+    python conversor.py
     ```
 
 3. The converted images will be saved in the `avif_output` folder.
