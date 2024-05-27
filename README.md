@@ -7,31 +7,23 @@ This project is a Python script that converts PNG images to AVIF format.
 Make sure you have Python 3.x installed on your system.
 
 ## Installation
+Create and activate a virtual environment (optional but recommended):
 
-1. Clone this repository:
+```sh
+python -m venv venv
+```
 
-    ```sh
-    git clone https://github.com/your_username/image-optimizer.git
-    cd image-optimizer
-    ```
-
-2. Create and activate a virtual environment (optional but recommended):
+- On Windows:
 
     ```sh
-    python -m venv venv
+    .\venv\Scripts\activate
     ```
 
-    - On Windows:
+- On Linux:
 
-        ```sh
-        .\venv\Scripts\activate
-        ```
-
-    - On Linux:
-
-        ```sh
-        source venv/bin/activate
-        ```
+    ```sh
+    source venv/bin/activate
+    ```
 
 3. Install the dependencies:
 
